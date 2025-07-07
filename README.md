@@ -25,12 +25,7 @@ Yazılım geliştiriciyim ve özellikle Web alanında çalışıyorum. Açık ka
 
 ## 📈 GitHub İstatistiklerim
 
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=bee1oss&show_icons=true&theme=radical)
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=bee1oss&layout=compact&theme=radical)
-
-## 🏆 GitHub Başarıları
-
-![Profil Başarıları](https://github-profile-trophy.vercel.app/?username=bee1oss&theme=radical&margin-w=15)
 
 ## 📫 Benimle İletişime Geçin
 
