@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/bee1oss?style=social)](https://github.com/bee1oss)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BHajyyev?style=social)](https://twitter.com/BHajyyev)
 
-🌍 Web sitesi: (https://begenc.com/)
+🌍 Web sitesi: https://begenc.com/
 📫 E-posta: begahaciyew@gmail.com
 
 ## 🚀 Hakkımda
